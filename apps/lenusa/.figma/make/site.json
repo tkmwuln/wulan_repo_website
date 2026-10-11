@@ -1,0 +1,11 @@
+{
+  "title": "Lenusa Indonesia",
+  "description": "This web application enables users to effortlessly create and customize their own websites, providing intuitive tools for design and functionality.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

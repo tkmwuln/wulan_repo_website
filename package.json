@@ -1,0 +1,14 @@
+{
+  "name": "website-monorepo",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "npm run dev --workspace=lenusa",
+    "dev:lenusa": "npm run dev --workspace=lenusa",
+    "build": "npm run build --workspaces --if-present",
+    "build:lenusa": "npm run build --workspace=lenusa"
+  }
+}
