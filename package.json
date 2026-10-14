@@ -9,8 +9,10 @@
     "dev": "npm run dev --workspace=lenusa",
     "dev:lenusa": "npm run dev --workspace=lenusa",
     "dev:nutrichat": "npm run dev --workspace=nutrichat",
+    "dev:fifin": "npm run dev --workspace=fifin",
     "build": "npm run build --workspaces --if-present",
     "build:lenusa": "npm run build --workspace=lenusa",
-    "build:nutrichat": "npm run build --workspace=nutrichat"
+    "build:nutrichat": "npm run build --workspace=nutrichat",
+    "build:fifin": "npm run build --workspace=fifin"
   }
 }

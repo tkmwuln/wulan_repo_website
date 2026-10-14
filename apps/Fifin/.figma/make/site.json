@@ -1,0 +1,10 @@
+{
+  "description": "Provides an interactive, user-friendly portal offering comprehensive financial advisory functions to help users manage and optimize their finances effectively.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
