@@ -1,0 +1,10 @@
+{
+  "description": "Streamlines project management by integrating visual references and detailed PRD documents to enhance team collaboration and workflow efficiency.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
